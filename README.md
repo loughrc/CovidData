@@ -1,4 +1,4 @@
-# Project 1: Covid Data: An exploration of worldwide data related to covid19 cases, deaths and vaccinations
+## Project 1: Covid Data: An exploration of worldwide data related to covid19 cases, deaths and vaccinations
 
 - Split data into two tables in order to carry out a comprehensive exploration
 - Explored data using a number of different types of MySQL operations
