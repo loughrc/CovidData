@@ -19,7 +19,8 @@ Microsoft Office Excel, MySQL, Tableau Public.
 
 ### Summary:
 
+- Retrieved data from https://ourworldindata.org/covid-deaths.
 - Split data into two tables in order to carry out a comprehensive exploration using MySQL
-- Explored data using a number of different types of MySQL operations
+- Explored data using a number of different types of MySQL operations (aggregate functions, joins, temp tables etc.)
 - Made some visualisations of this data on Tableau Public (https://public.tableau.com/profile/conor.loughran#!/vizhome/Covid_Information_Worldwide/Dashboard1)
 - Deeper data exploration using pandas (In Progress)
